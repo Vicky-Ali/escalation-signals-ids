@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "escalation-signals-ids: budget-matched escalation signals for cascaded intrusion detection"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Vicky-Ali/escalation-signals-ids"
+authors:
+  - family-names: Ali
+    given-names: Syed Waqas
+    email: waqas.ali@uajk.edu.pk
+# DOI: TODO (add the Zenodo DOI after release v1.0.0)
+preferred-citation:
+  type: article
+  title: "Which Signal Should Trigger Escalation? A Budget-Matched Evaluation of Uncertainty-Driven Deferral in Cascaded Intrusion Detection"
+  authors:
+    - family-names: Ali
+      given-names: Syed Waqas
+  journal: "IEEE Transactions on Network and Service Management (under review)"
+  year: 2026
+  # doi: TODO
