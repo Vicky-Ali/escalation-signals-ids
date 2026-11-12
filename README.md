@@ -106,17 +106,7 @@ reproducing the paper's experiments, tables or figures.
 
 ## Citation
 
-```bibtex
-@article{ali2026escalation,
-  author  = {Ali, Syed Waqas and others},
-  title   = {Which Signal Should Trigger Escalation? A Budget-Matched Evaluation of Uncertainty-Driven
-             Deferral in Cascaded Intrusion Detection},
-  journal = {IEEE Transactions on Network and Service Management},
-  note    = {Under review},
-  year    = {2026},
-  doi     = {TODO}
-}
-```
+
 
 ## Licence
 
