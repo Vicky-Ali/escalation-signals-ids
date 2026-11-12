@@ -1,8 +1,7 @@
 # Which Signal Should Trigger Escalation?
 
-Code for the method in **"Which Signal Should Trigger Escalation? A Budget-Matched Evaluation of
-Uncertainty-Driven Deferral in Cascaded Intrusion Detection"** (IEEE Transactions on Network and Service
-Management, under review).
+Code for the method in **"Which Signal Should Trigger Escalation? Budget-Constrained Deferral in Cascaded Intrusion Detection Toward Cloud-Native 6G Networks"** (IEEE Transactions on Network and Service
+Management, submitted).
 
 ## Method
 
