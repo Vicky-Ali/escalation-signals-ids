@@ -105,6 +105,7 @@ This repository contains the method only. It includes no data, no dataset prepar
 reproducing the paper's experiments, tables or figures.
 
 ## Citation
+This work is submitted for consideration in IEEE Journal.
 
 
 
